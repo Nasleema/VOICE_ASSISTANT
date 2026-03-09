@@ -66,26 +66,45 @@ Git & GitHub
 Streamlit Web Interface
 
 📁 Project Structure
+
 AIVA-Voice-Assistant
+
 │
 ├── app.py
+
 ├── main.py
+
 ├── audio_capture.py
+
 ├── voice_output.py
+
 ├── response.py
+
 ├── logger.py
+
 ├── calculator_engine.py
+
 ├── responses.csv
+
 ├── requirements.txt
+
 └── logs/
+
+
 🎯 Key Features
 
 ✅ Voice-based application control
+
 ✅ Voice calculator for arithmetic operations
+
 ✅ Voice YouTube search without keyboard
+
 ✅ Speech-to-text typing in Notepad
+
 ✅ Command logging and monitoring
+
 ✅ Interactive Streamlit dashboard
+
 
 🗺️ Development Workflow
 Stage	Task
@@ -95,12 +114,16 @@ Integration	Command processing and automation
 Interface	Streamlit dashboard development
 Testing	Command accuracy and interaction logging
 Deployment	Local Streamlit application
+
+
 📈 Project Highlights
 
 ✔ Modular architecture for easy maintenance
 ✔ Hands-free interaction with computer systems
 ✔ Assistive technology concept for accessibility
 ✔ Integration of speech recognition and automation
+
+
 
 📚 Example Voice Commands
 Opening Applications
@@ -115,22 +138,32 @@ Voice Typing
 open notepad
 start speaking
 stop typing
+
+
 🎯 Use Cases
 
 Assistive system for physically challenged users
 
+
 Hands-free computing environments
+
 
 Educational demonstration of voice-based systems
 
+
 Prototype for smart assistants
+
+
 
 🚀 Future Improvements
 
 Continuous listening mode (like Alexa)
 
+
 Advanced natural language processing
 
+
 Integration with more applications
+
 
 Smart home automation support

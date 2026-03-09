@@ -11,14 +11,17 @@ Use Cases: Assistive computing, hands-free interaction, accessibility support, e
 1️⃣ Clone Repository
 git clone https://github.com/yourusername/AIVA-Voice-Assistant.git
 cd AIVA-Voice-Assistant
+
 2️⃣ Setup Environment
 python -m venv venv
 Windows
 venv\Scripts\activate
 macOS / Linux
 source venv/bin/activate
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run the Application 🚀
 streamlit run app.py
 
